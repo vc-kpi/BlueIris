@@ -1,6 +1,6 @@
 # BlueIris
-docs
-CloudEdge Camera DoorRing Bell
+
+## XTU j5 (2K) CloudEdge Camera DoorRing Bell 
 
 How to add CloudEdge camera/doorbell to BlueItis?
 
@@ -22,7 +22,7 @@ Timeout: 15
 
 
 
-For BlueIRIS is different
+### For BlueIRIS is different
 
 RTSP port: 8854
 
