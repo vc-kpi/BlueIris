@@ -35,7 +35,9 @@ ONVIF port: 8000
 ![image](https://github.com/user-attachments/assets/f936af0f-a60e-4a95-8eac-5d3b997a221a)
 
 
-For the interior Camera or small one (JAWA app)
+# AMICCOM Camera (JAWA app)
+Smart IP Camera C_22002 | ID: 0008KCD0JTAL9CKA
+
 
 RTSP port: 2600
 
